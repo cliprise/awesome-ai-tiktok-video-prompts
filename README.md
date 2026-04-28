@@ -21,15 +21,15 @@ This repository is built for **TikTok creators, DTC brands, app founders, media 
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
 ## Related Cliprise GitHub resources
 
-- [Awesome AI UGC Video Prompts](https://github.com/cliprise/awesome-ai-ugc-video-prompts)
-- [Awesome AI Video Ads Prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts)
-- [Awesome Image-to-Video Prompts](https://github.com/cliprise/awesome-image-to-video-prompts)
-- [Best AI Video Generator Resources](https://github.com/cliprise/best-ai-video-generator-resources)
-
----
-
+- [Awesome AI UGC video prompts](https://github.com/cliprise/awesome-ai-ugc-video-prompts) - creator-native patterns with compliance-conscious structure.
+- [Awesome AI video ads prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts) - paid social and performance video ad prompt structures.
+- [Awesome AI product video prompts](https://github.com/cliprise/awesome-ai-product-video-prompts) - demo, PDP, and e-commerce video oriented prompts.
+- [Awesome AI YouTube Shorts prompts](https://github.com/cliprise/awesome-ai-youtube-shorts-prompts) - Shorts-first framing, hooks, and thumbnail-safe compositions.
+- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+<!-- CLIPRISE_LINKING_END -->
 ## What this repository is
 
 This repository is a practical resource hub for users searching for:
