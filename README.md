@@ -29,6 +29,7 @@ This repository is built for **TikTok creators, DTC brands, app founders, media 
 - [Awesome AI product video prompts](https://github.com/cliprise/awesome-ai-product-video-prompts) - demo, PDP, and e-commerce video oriented prompts.
 - [Awesome AI YouTube Shorts prompts](https://github.com/cliprise/awesome-ai-youtube-shorts-prompts) - Shorts-first framing, hooks, and thumbnail-safe compositions.
 - [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+- [Ideoy](https://ideoy.ai) - AI meme video remakes — one-click viral template remakes for short-form content.
 <!-- CLIPRISE_LINKING_END -->
 ## What this repository is
 
